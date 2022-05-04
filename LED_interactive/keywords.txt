@@ -1,0 +1,26 @@
+########################################
+# Syntax Coloring Map For Example
+########################################
+
+########################################
+# Catatypes (KEYWORD1)
+########################################
+
+LED_interactive	KEYWORD1
+ 
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+Numero_pixeles	KEYWORD2
+Cambio_color1	KEYWORD2
+Cambio_color2	KEYWORD2
+Cambio_color3	KEYWORD2
+Retardo		KEYWORD2
+Revolver	KEYWORD2
+Leer_DatoF	KEYWORD2
+Leer_DatoI	KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
